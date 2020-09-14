@@ -1,0 +1,3 @@
+rootProject.name='MyQc'
+include ':app'
+include ':module_im'
